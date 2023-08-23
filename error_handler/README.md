@@ -1,0 +1,1 @@
+- [A Survey of PHP Error Handling](https://alanastorm.com/php_error_reporting/)
